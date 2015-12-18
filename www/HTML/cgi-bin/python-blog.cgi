@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#asg10.cgi
+#python-blog.cgi
 #Sam Duncan
 #script that displays a blog to the user. User can add and remove entries on the blog.
 #Entries on the blog display current date and time as well as the post
