@@ -1,0 +1,70 @@
+/* Generic Selectors */
+
+body {
+
+margin:  0 5%;
+
+font-family: verdana, Georgia, arial, helvetica, sans-serif;
+
+font-size: 1em;  /* default size */
+
+color: #333333;  /* text color */
+
+background: black; /* background color */
+
+}
+
+.heading {
+      background:#999999;
+      color:gold; 
+      padding: 1%;
+      margin: 1% 13% 1% 13%;
+      padding: 2%;
+      text-align:center;
+}
+.content {
+    background: #999999;
+    color:gold;
+    margin: 1% 13% 1% 13%;
+    padding: 2%;
+    overflow:auto;
+}
+
+.border { 
+          margin: 15% 2%;
+          border: 2px solid black;
+          padding: 5% 2%;
+          overflow:auto;
+          text-align:center;
+  }
+
+.floatleft {
+        width: 40%;
+	padding:2%;
+	float:left;
+      }
+.clear {
+       clear:both;
+       }
+
+.footer{
+        font-size:.8em;
+	margin:5% 1% 1% 1%;
+/*	border-style: solid;
+        border-width: thin;
+        border-color:white;
+*/
+	border-top: 1px solid black;
+        padding:1%;
+        
+}
+/* now change anchor tag colors */
+a:link { 
+         color: cobalt;
+    }
+a:visited { 
+            color:purple;
+          }
+a:hover { background:black;
+          color:#999699;
+        }
