@@ -30,7 +30,7 @@ def printDocHeading(stylesheet, title):
 def printDocFooter():
     print("<div class='content'> \n", \
         "<div class='footer'> \n", \
-        "&copy; St. Edward's University &nbsp;&nbsp;&nbsp;&nbsp;\n ", \
+        "&copy; Sam Duncan &nbsp;&nbsp;&nbsp;&nbsp;\n ", \
         "Page Last Updated:\n ", \
         " <script type='text/javascript'>\n ", \
         " document.write(document.lastModified); \n", \
